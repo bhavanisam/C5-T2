@@ -1,2 +1,2 @@
 # C5-T2
-Creditone Customers' Default - EDA
+Creditone Customers' Default - Exploratory Data Analysis
